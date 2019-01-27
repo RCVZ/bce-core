@@ -1,0 +1,29 @@
+{
+  "namespace": "bce",
+  "fsNamespace": "bce",
+  "loader": "../bce.js",
+  "core": "bce.mzx8vyaw.js",
+  "corePolyfilled": "bce.o4uwygih.js",
+  "components": {
+    "bce-header": {
+      "bundleIds": {
+        "$": "d7vl0cni"
+      }
+    },
+    "bce-root": {
+      "bundleIds": {
+        "$": "mvyzjdsg"
+      }
+    },
+    "bce-status-bar": {
+      "bundleIds": {
+        "$": "fmr1wm4x"
+      }
+    },
+    "bce-switch": {
+      "bundleIds": {
+        "$": "9d0c17sh"
+      }
+    }
+  }
+}
