@@ -2,27 +2,37 @@
   "namespace": "bce",
   "fsNamespace": "bce",
   "loader": "../bce.js",
-  "core": "bce.mzx8vyaw.js",
-  "corePolyfilled": "bce.o4uwygih.js",
+  "core": "bce.m2xzawo4.js",
+  "corePolyfilled": "bce.ltds5z8k.js",
   "components": {
     "bce-header": {
       "bundleIds": {
-        "$": "d7vl0cni"
+        "$": "gxduzvmo"
+      }
+    },
+    "bce-icon": {
+      "bundleIds": {
+        "$": "09afldic"
+      }
+    },
+    "bce-input": {
+      "bundleIds": {
+        "$": "l1fn5hrr"
       }
     },
     "bce-root": {
       "bundleIds": {
-        "$": "mvyzjdsg"
+        "$": "benplnyz"
       }
     },
     "bce-status-bar": {
       "bundleIds": {
-        "$": "fmr1wm4x"
+        "$": "o2xphh4m"
       }
     },
     "bce-switch": {
       "bundleIds": {
-        "$": "9d0c17sh"
+        "$": "bqvxb28s"
       }
     }
   }

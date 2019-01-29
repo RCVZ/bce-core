@@ -6,27 +6,27 @@
         "headers": [
           {
             "name": "Link",
-            "value": "</build/bce/bce.o4uwygih.js>;rel=preload;as=script"
+            "value": "</dist/bce/bce.ltds5z8k.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
-            "value": "</build/bce/9d0c17sh.entry.js>;rel=preload;as=script"
+            "value": "</build/bce/bqvxb28s.entry.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
-            "value": "</build/bce/d7vl0cni.entry.js>;rel=preload;as=script"
+            "value": "</build/bce/l1fn5hrr.entry.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
-            "value": "</build/bce/fmr1wm4x.entry.js>;rel=preload;as=script"
+            "value": "</build/bce/gxduzvmo.entry.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
-            "value": "</build/bce/mvyzjdsg.entry.js>;rel=preload;as=script"
+            "value": "</build/bce/o2xphh4m.entry.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
-            "value": "</build/bce.js>;rel=preload;as=script"
+            "value": "</build/bce/benplnyz.entry.js>;rel=preload;as=script"
           }
         ]
       },
