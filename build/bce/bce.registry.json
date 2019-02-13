@@ -2,8 +2,8 @@
   "namespace": "bce",
   "fsNamespace": "bce",
   "loader": "../bce.js",
-  "core": "bce.rykxnh0w.js",
-  "corePolyfilled": "bce.soczi1o5.js",
+  "core": "bce.enrnp2bt.js",
+  "corePolyfilled": "bce.xzbdjmtc.js",
   "components": {
     "bce-button": {
       "bundleIds": {
