@@ -2,8 +2,8 @@
   "namespace": "bce",
   "fsNamespace": "bce",
   "loader": "../bce.js",
-  "core": "bce.enrnp2bt.js",
-  "corePolyfilled": "bce.xzbdjmtc.js",
+  "core": "bce.xzkfauvt.js",
+  "corePolyfilled": "bce.mhu2qqud.js",
   "components": {
     "bce-button": {
       "bundleIds": {
@@ -22,7 +22,7 @@
     },
     "bce-input": {
       "bundleIds": {
-        "$": "dmbt8b1p"
+        "$": "bv1kzqxt"
       }
     },
     "bce-ripple": {
