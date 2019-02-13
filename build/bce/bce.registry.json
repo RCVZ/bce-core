@@ -2,12 +2,17 @@
   "namespace": "bce",
   "fsNamespace": "bce",
   "loader": "../bce.js",
-  "core": "bce.xzkfauvt.js",
-  "corePolyfilled": "bce.mhu2qqud.js",
+  "core": "bce.34d50ltd.js",
+  "corePolyfilled": "bce.uleu5ahk.js",
   "components": {
     "bce-button": {
       "bundleIds": {
         "$": "akxx9lra"
+      }
+    },
+    "bce-card": {
+      "bundleIds": {
+        "$": "7sy4mssk"
       }
     },
     "bce-header": {
