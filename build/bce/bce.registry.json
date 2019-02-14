@@ -2,12 +2,12 @@
   "namespace": "bce",
   "fsNamespace": "bce",
   "loader": "../bce.js",
-  "core": "bce.34d50ltd.js",
-  "corePolyfilled": "bce.uleu5ahk.js",
+  "core": "bce.bhfaixdk.js",
+  "corePolyfilled": "bce.sl4dbp5h.js",
   "components": {
     "bce-button": {
       "bundleIds": {
-        "$": "akxx9lra"
+        "$": "abv1ckqx"
       }
     },
     "bce-card": {
@@ -22,22 +22,22 @@
     },
     "bce-icon": {
       "bundleIds": {
-        "$": "akxx9lra"
+        "$": "abv1ckqx"
       }
     },
     "bce-input": {
       "bundleIds": {
-        "$": "bv1kzqxt"
+        "$": "qjc33zdg"
       }
     },
     "bce-ripple": {
       "bundleIds": {
-        "$": "akxx9lra"
+        "$": "abv1ckqx"
       }
     },
     "bce-root": {
       "bundleIds": {
-        "$": "benplnyz"
+        "$": "ou1a2xde"
       }
     },
     "bce-status-bar": {

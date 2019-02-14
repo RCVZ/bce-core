@@ -6,11 +6,11 @@
         "headers": [
           {
             "name": "Link",
-            "value": "</build/bce/bce.uleu5ahk.js>;rel=preload;as=script"
+            "value": "</dist/bce/bce.sl4dbp5h.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
-            "value": "</build/bce/akxx9lra.entry.js>;rel=preload;as=script"
+            "value": "</build/bce/abv1ckqx.entry.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
@@ -18,15 +18,15 @@
           },
           {
             "name": "Link",
-            "value": "</build/bce/bv1kzqxt.entry.js>;rel=preload;as=script"
-          },
-          {
-            "name": "Link",
-            "value": "</build/bce/7sy4mssk.entry.js>;rel=preload;as=script"
+            "value": "</build/bce/qjc33zdg.entry.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
             "value": "</build/bce/gxduzvmo.entry.js>;rel=preload;as=script"
+          },
+          {
+            "name": "Link",
+            "value": "</build/bce/o2xphh4m.entry.js>;rel=preload;as=script"
           }
         ]
       },
