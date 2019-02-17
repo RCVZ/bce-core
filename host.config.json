@@ -6,11 +6,11 @@
         "headers": [
           {
             "name": "Link",
-            "value": "</build/bce/bce.bhohthcz.js>;rel=preload;as=script"
+            "value": "</dist/bce/bce.ro2fomsm.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
-            "value": "</build/bce/kcvedjr8.entry.js>;rel=preload;as=script"
+            "value": "</build/bce/5haomqve.entry.js>;rel=preload;as=script"
           },
           {
             "name": "Link",
@@ -26,7 +26,7 @@
           },
           {
             "name": "Link",
-            "value": "</build/bce/mdq11dgw.entry.js>;rel=preload;as=script"
+            "value": "</build/bce/9ceu9sog.entry.js>;rel=preload;as=script"
           }
         ]
       },
