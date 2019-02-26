@@ -2,12 +2,12 @@
   "namespace": "bce",
   "fsNamespace": "bce",
   "loader": "../bce.js",
-  "core": "bce.kmerzrge.js",
-  "corePolyfilled": "bce.72p70aoq.js",
+  "core": "bce.pbjps6ff.js",
+  "corePolyfilled": "bce.phmjoimc.js",
   "components": {
     "bce-button": {
       "bundleIds": {
-        "$": "d5ubecw5"
+        "$": "rxtjk43e"
       }
     },
     "bce-card": {
@@ -42,7 +42,7 @@
     },
     "bce-ripple": {
       "bundleIds": {
-        "$": "d5ubecw5"
+        "$": "rxtjk43e"
       }
     },
     "bce-root": {
