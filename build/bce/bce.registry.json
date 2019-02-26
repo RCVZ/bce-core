@@ -2,8 +2,8 @@
   "namespace": "bce",
   "fsNamespace": "bce",
   "loader": "../bce.js",
-  "core": "bce.vhengun2.js",
-  "corePolyfilled": "bce.roahdoqd.js",
+  "core": "bce.rovvggdi.js",
+  "corePolyfilled": "bce.ljoq1ggy.js",
   "components": {
     "bce-button": {
       "bundleIds": {
@@ -37,7 +37,7 @@
     },
     "bce-message": {
       "bundleIds": {
-        "$": "xexq1rjr"
+        "$": "4wwxqt6w"
       }
     },
     "bce-ripple": {
@@ -47,7 +47,7 @@
     },
     "bce-root": {
       "bundleIds": {
-        "$": "xexq1rjr"
+        "$": "4wwxqt6w"
       }
     },
     "bce-status-bar": {
