@@ -2,8 +2,8 @@
   "namespace": "bce",
   "fsNamespace": "bce",
   "loader": "../bce.js",
-  "core": "bce.i8esauk8.js",
-  "corePolyfilled": "bce.ro2fomsm.js",
+  "core": "bce.vhengun2.js",
+  "corePolyfilled": "bce.roahdoqd.js",
   "components": {
     "bce-button": {
       "bundleIds": {
@@ -17,7 +17,7 @@
     },
     "bce-fab": {
       "bundleIds": {
-        "$": "9ceu9sog"
+        "$": "vhs2n8vk"
       }
     },
     "bce-header": {
@@ -32,7 +32,12 @@
     },
     "bce-input": {
       "bundleIds": {
-        "$": "qjc33zdg"
+        "$": "5bwqhhga"
+      }
+    },
+    "bce-message": {
+      "bundleIds": {
+        "$": "xexq1rjr"
       }
     },
     "bce-ripple": {
@@ -42,7 +47,7 @@
     },
     "bce-root": {
       "bundleIds": {
-        "$": "dcdtxd1k"
+        "$": "xexq1rjr"
       }
     },
     "bce-status-bar": {
